@@ -29,7 +29,6 @@ Create Dashboard:
 Page 1- Season's Spending: A Holiday Sales Journey
 
 Added a slicer to filter by Item Type or Month or by supplier 
-
 Added card to display the sum of retail sale and warehouse sale and retail transfer sale 
 
 Created the following visuals:
@@ -46,7 +45,6 @@ Donut Chart: Percentage contribution of warehouse sales by item.
 Page 2 - Santa's Helpers: Supplier Performance
 
 Added a slicer to filter by Supplier or Item Type or by month 
-
 Added card to display the count of supplier and count of item type 
 
 Created the following visuals:
