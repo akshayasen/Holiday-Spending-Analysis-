@@ -1,0 +1,21 @@
+Dataset : https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing/data 
+
+Dataset contains: 
+
+YEAR: Year of the sales data.
+
+MONTH: Month of the sales data, useful for seasonal analysis.
+
+SUPPLIER: Name of the supplier providing the products.
+
+ITEM CODE: Unique identifier for each product.
+
+ITEM DESCRIPTION: Description of the product.
+
+ITEM TYPE: Categorization of items (e.g., liquor, non-alcoholic, etc.).
+
+RETAIL SALES: Sales made through retail stores to end customers.
+
+RETAIL TRANSFERS: Movement of inventory from warehouses to retail locations.
+
+WAREHOUSE SALES: Bulk sales made directly from warehouses.
