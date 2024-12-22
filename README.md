@@ -6,22 +6,26 @@ The Holiday Spending Analysis project is a comprehensive Power BI dashboard desi
 
 Page 1: Season's Spending: A Holiday Sales Journey
 
-Focuses on overall sales trends, including retail and warehouse dynamics, item type performance, and peak sales periods.
-Key insights include item types with the highest sales, monthly retail performance, and item-category-specific contributions.
+Focused on overall sales trends, including retail and warehouse dynamics, item type performance, and peak sales periods.
+Key insights included item types with the highest sales, monthly retail performance, and item-category-specific contributions.
 
 Page 2: Santa's Helpers: Supplier Performance
 
-Highlights supplier contributions to sales and item availability, along with a comparative analysis of warehouse vs. retail performance.
-Provides details on supplier efficiency, item diversity, and top-selling item categories.
+Highlighted supplier contributions to sales and item availability, along with a comparative analysis of warehouse vs. retail performance.
+Provided details on supplier efficiency, item diversity, and top-selling item categories.
 With interactive visuals, slicers, and navigation buttons, this dashboard empowers users to explore the data dynamically and uncover meaningful patterns in holiday spending. 
 
 
 Setup Instructions :
 
 Install Power BI Desktop- Download and install from the official site: Power BI Desktop.
+
 Prepare the Dataset- Ensure the dataset is cleaned and includes key columns such as Month, Year, Item Type, Supplier, Warehouse Sales, Retail Sales, and Retail Transfers.
+
 Load the Dataset- Open Power BI Desktop.Use the Get Data option to import the dataset (csv or .xlsx file).
+
 Create Dashboard:
+
 Page 1- Season's Spending: A Holiday Sales Journey
 Added a slicer to filter by Item Type or Month or by supplier 
 Added card to display the sum of retail sale and warehouse sale and retail transfer sale 
